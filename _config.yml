@@ -27,8 +27,6 @@ markdown:           kramdown
 nav:
   - name:           "About"
     href:           "/blog/about"
-  - name:           "CV"
-    href:           "/resume"
 
 # Sass
 sass:
