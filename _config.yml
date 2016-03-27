@@ -7,7 +7,7 @@ name:               "Nicholas Malizia"
 description:        ""
 
 # jekyll-seo-tag, see: http://www.rubydoc.info/gems/jekyll-seo-tag/1.2.0
-url:                "//nmalizia.github.io/blog"
+url:                "https://nmalizia.github.io/blog"
 author:             "Nicholas Malizia"
 twitter:
   username:         "nrmalizia"
@@ -16,7 +16,7 @@ twitter:
 #    publisher:      1234
 
 # URL
-baseurl:            ""
+baseurl:            "https://nmalizia.github.io/blog"
 #baseurl:            "" #For Root Domain
 permalink:          /:year/:month/:day/:title/
 
@@ -26,7 +26,7 @@ markdown:           kramdown
 # Navigation
 nav:
   - name:           "About"
-    href:           "//nmalizia.github.io/blog/about"
+    href:           "/about"
 
 # Sass
 sass:
