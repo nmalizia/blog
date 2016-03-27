@@ -3,6 +3,10 @@ title: About
 permalink: /about/
 ---
 
-<p class="lead"><a href="http://github.com/gfjaru/Kiko">Kiko</a> is a theme for <a href="http://jekyllrb.com">Jekyll</a>, the static site generator.</p>
+Hello.
 
-Kiko is simple, lightweight theme. It's designed and developed by [@gfjaru](https://twitter.com/gfjaru).
+I'm a Data Scientist with [The Boston Consulting Group](https://www.bcg.com/). I live and work in the Boston area. I'm passionate about family, friends and food. Oh, and data and maps are pretty cool too :-)
+
+You can find out more about me via my [homepage](http://nmalizia.github.io/) and [CV](http://nmalizia.github.io/resume/).
+
+
